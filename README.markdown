@@ -4,6 +4,10 @@ Amistad adds friendships management into a rails 3.0 application. it supports Ac
 
 ## Installation ##
 
+ruby 1.9.3 >=
+rails rails 3.2 >=
+currenty working on rails 4.1 not tested on other versions.
+
 Add the following line in your Gemfile:
 
     gem 'amistad'
