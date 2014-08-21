@@ -10,7 +10,7 @@ currenty working on rails 4.1 not tested on other versions.
 
 Add the following line in your Gemfile:
 
-    gem 'amistad'
+    gem 'amistad', git: 'git://github.com/ramza1/amistad.git'
 
 Then run:
 
